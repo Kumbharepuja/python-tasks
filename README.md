@@ -32,11 +32,3 @@ Last Name : Kumbhare
 Hello, Pooja Kumbhare! Welcome to the Python Program
 ```
 
----
-
-## 🚀 How to Run
-Make sure you have Python installed. Run the scripts using:
-```bash
-python task1.py
-python task2.py
-```
